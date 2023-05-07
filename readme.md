@@ -8,3 +8,5 @@ https://docs.confluent.io/platform/current/platform-quickstart.html#quickstart
 curl --silent --output docker-compose.yml \
 https://raw.githubusercontent.com/confluentinc/cp-all-in-one/7.4.0-post/cp-all-in-one/docker-compose.yml
 ```
+
+Хорошо бы попробовать аутентификацию на [cp_demo](https://github.com/confluentinc/cp-demo/tree/7.4.0-post).
