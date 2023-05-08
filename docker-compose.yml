@@ -23,6 +23,7 @@ services:
       - 8080:8080
     depends_on:
       - broker
+      - schema-registry
 
   zookeeper:
     image: confluentinc/cp-zookeeper:7.4.0
